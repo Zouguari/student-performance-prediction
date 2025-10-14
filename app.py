@@ -18,9 +18,7 @@ st.markdown(
         margin-bottom: -180px;
         margin-top: 15px;
     }
-    h{
-        
-    }
+    
     .input-container i {
         margin-right: 10px;
         color: #007bff;
@@ -221,7 +219,7 @@ elif selected == "À propos":
         à mieux comprendre les facteurs influençant les performances scolaires.
         """
     )
-    st.markdown("**Technologies utilisées :**")
+    st.markdown("**Technologies utilisées : **")
     st.markdown(
         """
         - **Langage :** Python
@@ -239,9 +237,9 @@ elif selected == "Contact":
     st.markdown(
         """
         ### Liste des contacts :
-        - 📧 **Chorouk Mouhibi** : [chorouk.mouhibi.56@edu.uiz.ac.ma](mailto:choroukmouhibi08@gmail.com)
-        - 📧 **Zineb Arfani** : [zineb.arfani.57@edu.uiz.ac.ma](mailto:zinebarfani.mgsi@gmail.com)
-        - 📧 **Yassine Laamarti** : [yassine.laamarti.24@edu.uiz.ac.ma](mailto:yassinelaamarti362@gmail.com)
-        - 📧 **Yassine Zouguari** : [yassine.zouguari.58@edu.uiz.ac.ma](mailto:yassine.zouguari.58@edu.uiz.ac.ma)
+        - 📧 **Chorouk MOUHIBI** : [chorouk.mouhibi.56@edu.uiz.ac.ma](mailto:choroukmouhibi08@gmail.com)
+        - 📧 **Zineb ARFANI** : [zineb.arfani.57@edu.uiz.ac.ma](mailto:zinebarfani.mgsi@gmail.com)
+        - 📧 **Yassine LAAMARTI** : [yassine.laamarti.24@edu.uiz.ac.ma](mailto:yassinelaamarti362@gmail.com)
+        - 📧 **Yassine ZOUGUARI** : [yassine.zouguari.58@edu.uiz.ac.ma](mailto:yassine.zouguari.58@edu.uiz.ac.ma)
         """
     )
