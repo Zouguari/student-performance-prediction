@@ -17,7 +17,7 @@ MAPPINGS = {
     "Distance_from_Home": {"Near": 1, "Moderate": 1, "Far": 0, "Proche": 1, "Modéré": 1, "Loin": 0},
 }
 
-# Appliquer les mappages
+# Appliquer les mappages pour la prediction
 def apply_mappings(student_data):
     for column, mapping in MAPPINGS.items():
         student_data[column] = mapping[student_data[column]]
