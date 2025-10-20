@@ -18,7 +18,9 @@ st.markdown(
         margin-bottom: -180px;
         margin-top: 15px;
     }
-    
+    h{
+        
+    }
     .input-container i {
         margin-right: 10px;
         color: #007bff;
@@ -31,6 +33,9 @@ st.markdown(
         margin: 5px 0px;
         border: none;
         background-color: #f4f4f4;
+    }
+    head{
+        
     }
     .stSidebar .stButton>button:hover {
         background-color: #0056b3;
